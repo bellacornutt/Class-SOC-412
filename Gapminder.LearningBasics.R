@@ -1,6 +1,6 @@
 ##########################
 #### Isabella Cornutt ####
-### SOC 412 ####
+### SOC 412 ########
 ### Winter 2025 ###
 ### Learning R Basics ##
 ### GAPMINDER ###
